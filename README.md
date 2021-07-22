@@ -11,7 +11,7 @@ Singularity recipe for [vcf2maf](https://github.com/mskcc/vcf2maf).
 Copy the
 
 * `SIF` file
-* and the `vcf2maf` script
+* and the `vcf2maf`, `vcf2vcf`, `maf2maf` and `maf2vcf` scripts
 
 to `/opt/packages/vcf2maf/1.6.21`.
 

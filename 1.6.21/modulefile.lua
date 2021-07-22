@@ -32,6 +32,9 @@ Tools included in this module are
 * maf2maf
 ]])
 
+depends_on('htslib')
+depends_on('samtools')
+
 local package = "vcf2maf"
 local version = "1.6.21"
 local base    = pathJoin("/opt/packages",package,version)

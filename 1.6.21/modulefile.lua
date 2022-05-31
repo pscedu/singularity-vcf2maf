@@ -34,6 +34,7 @@ Tools included in this module are
 
 depends_on('htslib')
 depends_on('samtools')
+depends_on('bcftools')
 
 local package = "vcf2maf"
 local version = "1.6.21"

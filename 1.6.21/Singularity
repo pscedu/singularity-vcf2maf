@@ -6,7 +6,7 @@ From: perl:5.32.1
     EMAIL icaoberg@psc.edu
     SUPPORT help@psc.edu
     REPOSITORY http://gitub.com/pscedu/singularity-vcf2maf
-    COPYRIGHT Copyright © 2021 Pittsburgh Supercomputing Center. All Rights Reserved.    
+    COPYRIGHT Copyright © 2021-2024 Pittsburgh Supercomputing Center. All Rights Reserved.    
     VERSION 1.6.21
 
 %environment
